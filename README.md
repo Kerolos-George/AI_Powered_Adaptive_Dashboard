@@ -22,7 +22,6 @@ An intelligent dashboard application that leverages artificial intelligence to p
 - Node.js
 - Express.js
 - RESTful API architecture
-- AI/ML integration
 
 ## Prerequisites
 
