@@ -34,7 +34,7 @@ An intelligent dashboard application that leverages artificial intelligence to p
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/AI_Powered_Adaptive_Dashboard.git
+git clone https://github.com/Kerolos-George/AI_Powered_Adaptive_Dashboard.git
 cd AI_Powered_Adaptive_Dashboard
 ```
 
